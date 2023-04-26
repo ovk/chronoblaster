@@ -45,6 +45,7 @@ I'm not an artist, so while few images/sounds I made myself, most of the art for
 - Projectiles sprite sheet - [Pure Projectile - Magic Effect by Cethiel](https://opengameart.org/content/pure-projectile-magic-effect).
 - Shock wave effect sprite sheet - [Pixel FX Pack by CodeManu](https://opengameart.org/content/pixel-fx-pack ).
 - Turret sprite - [Assets Free: Space Modular Buildings Kit by Wenrexa](https://opengameart.org/content/assets-free-space-modular-buildings-kit).
+- Music track - [Namaste by Jason](https://audionautix.com/).
 - Jump, hit wall, anomaly fly, power up pickup sounds - [50 CC0 Sci-Fi SFX by rubberduck](https://opengameart.org/content/50-cc0-sci-fi-sfx).
 - Player death sound: - [Machine shutting down by Cough-E](https://opengameart.org/content/machine-shutting-down).
 - Anomaly launch, anomaly detonate, turret explosion, turret fire sounds - [Sci-fi Sounds by Kenney](https://www.kenney.nl/assets/sci-fi-sounds).
